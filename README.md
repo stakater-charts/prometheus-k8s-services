@@ -6,3 +6,4 @@ This repository contains 1 chart that is used to deploy prometheus-k8s-services 
 Install `prometheus-k8s-services` chart
 ```
 helm install --name prometheus-k8s-services chartmuseum/prometheus-k8s-services
+
